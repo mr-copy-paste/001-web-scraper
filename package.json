@@ -1,0 +1,16 @@
+{
+	"name": "web-scraper",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"cheerio": "^1.0.0-rc.5"
+	}
+}
